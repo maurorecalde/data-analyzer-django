@@ -22,7 +22,8 @@ Proyecto web hecho con **Django + Pandas** que permite subir archivos `.csv`, pr
 - Matplotlib (opcional para visualización)
 - Bootstrap 5 (CDN)
 
-```bash
+---
+
  Subí tu archivo CSV
  Mostrá estadísticas automáticamente
 
@@ -66,7 +67,7 @@ data_analyzer_project/
 ## Contacto
 
 **Mauro Recalde**  
-🔗 [github.com/maurorecalde]
+[github.com/maurorecalde]
 
 ---
 
