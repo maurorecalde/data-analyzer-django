@@ -24,8 +24,8 @@ Proyecto web hecho con **Django + Pandas** que permite subir archivos `.csv`, pr
 
 ---
 
- Subí tu archivo CSV y
- mostrá estadísticas automáticamente
+ Subí tu archivo CSV.
+ Mostrá estadísticas automáticamente.
 
 ---
 
