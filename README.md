@@ -59,10 +59,11 @@ data_analyzer_project/
 │   ├── forms.py
 │   ├── templates/
 │   │   └── upload.html
-├── media/           ← Archivos CSV subidos
-├── static/          ← Archivos estáticos (opcional)
+├── media/          ← Carpeta para archivos subidos (viene vacía con un .keep)
+├── static/           ← Archivos estáticos (viene vacía con un .keep)
 ├── manage.py
 └── requirements.txt
+└── .gitignore
 
 ## Contacto
 
